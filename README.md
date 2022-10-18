@@ -4,7 +4,7 @@
 
 I am getting back to programming by studying Java Development at IT-högskolan🏫 and will be finishing in June 2023🎓. Currently, open for project collaboration and looking for LIA internship opportunities👩‍💻. 
 
-I have a diverse interests including knitting🧶, a healthly lifestyle🏃‍♀️ and sign languages🤟. In 2010 I moved from the Chicago area to Sweden and love living here. Within Sweden I have been to or lived in to more places than most people I meet. Traveling✈️ and trying new foods🍡 are some of the most satisfying parts of my life!   
+I have a diverse interests including knitting🧶, a healthly lifestyle🏃‍♀️ and sign languages🤟. In 2010 I moved from the US to Sweden and love living here. Within Sweden, I have been to or lived in several places. Often father away than places many people I meet here have visited within the country.😄 Traveling✈️ and trying new foods🍡 are some of the most satisfying parts of my life!   
 
 <figure>
 <img width="300px"  alt="A shawl in deep rainbow colors." src="https://images4-g.ravelrycache.com/uploads/bratae/402496336/20161008_140908_medium2.jpg"/>
