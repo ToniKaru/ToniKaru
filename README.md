@@ -28,3 +28,8 @@ I have a diverse interests including knitting🧶, a healthly lifestyle🏃‍�
 
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=ToniKaru&show_icons=true)
+
+### Contact Me 
+ - [LinkedIn](https://www.linkedin.com/in/toni-karu/) 
+ - [Email](mailto:toni.karu@gmail.com) 📩
+ - [GitHub Profile Summary](https://profile-summary-for-github.com/user/ToniKaru)
