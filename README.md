@@ -15,10 +15,10 @@ I have a diverse interests including knitting🧶, a healthly lifestyle🏃‍�
 
 ### Languages and Tools: 
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://cdn.my-mooc.com/media/cache/catalog_product_458x275/mooc/logo/5d6c89fdb37143ead78cc0062d83658672b5d09d.png"></code>
+<code><img height="40" src="https://camo.githubusercontent.com/40151cb47332e5a702cfb89f995b11e9ae9c86049403989e8f09aa5931bfd1f8/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f6d7973716c2f6d7973716c5f504e4732332e706e67"></code>
+<code><img height="40" src="https://ih1.redbubble.net/image.859063361.0627/pp,840x830-pad,1000x1000,f8f8f8.jpg"></code>
+<code><img height="40" src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
