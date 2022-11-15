@@ -8,7 +8,7 @@ I have a diverse interests including knitting🧶, a healthly lifestyle🏃‍�
 
 <figure>
 <img width="300px"  alt="A shawl in deep rainbow colors." src="https://images4-g.ravelrycache.com/uploads/bratae/402496336/20161008_140908_medium2.jpg"/>
-   <figcaption> A knitted shawl with a peacock feather pattern made in 2016. </figcaption>
+   <figcaption> A knitted shawl with a peacock feather pattern, made in 2016. </figcaption>
 </figure>
 
 
