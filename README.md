@@ -2,9 +2,9 @@
 
 ### Hi! I'm Toni. 😊 
 
-I am getting back to programming by studying Java Development at IT-högskolan🏫 and will be finishing in June 2023🎓. Currently open for project collaboration. 
+I'm currently looking for my first paid software development position while finishing up my internship and degree in Java Software Development. Searching for a place to grow with so we can learn, create and collaborate for a better future. I'm up for project collaberation or just a friendly networking fika!
 
-I have a diverse interests including knitting🧶, a healthly lifestyle🏃‍♀️ and sign languages🤟. In 2010 I moved from the US to Sweden and love living here. Within Sweden, I have been to or lived in several places. Often farther away than places many people I meet here have visited within the country.😄 Traveling✈️ and trying new foods🍡 are some of the most satisfying parts of my life!   
+I have a diverse interests including knitting🧶, a healthly lifestyle🏃‍♀️ and sign languages🤟. In 2010 I moved from the US to Sweden and love living here. Within Sweden, I have been to or lived in many places, including Jokkmokk, Mora, Kalmar, Gällivare, Södertälje and Mölndal. All of them have be very lovely in their own ways 😄. Traveling✈️ and trying new foods🍡 are some of the most satisfying parts of my life!   
 
 <figure>
 <img width="300px"  alt="A shawl in deep rainbow colors." src="https://images4-g.ravelrycache.com/uploads/bratae/402496336/20161008_140908_medium2.jpg"/>
